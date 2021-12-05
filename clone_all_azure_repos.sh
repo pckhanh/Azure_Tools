@@ -1,6 +1,6 @@
 #!/bin/sh
 #################################################
-# Author: Khanh Pham - TfNSW Anycloud Team      #
+# Author: Khanh Pham                            #
 # Date: 16 Sep 2021                             #
 # Description: Check out all Azure DevOps repos #
 #################################################
