@@ -37,6 +37,7 @@ check_cmd() {
 check_cmd
 
 ### Variables
+az login
 Repos=`az repos list | jq -r .[].remoteUrl`
 
 for rpn in $Repos
